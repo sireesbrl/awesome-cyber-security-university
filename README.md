@@ -73,9 +73,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
 
-* [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
-* [Osint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
-* [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for device enumeration.
+* [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content! *
+* [Osint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence. *
+* [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for device enumeration. x (premium)
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
