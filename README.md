@@ -58,12 +58,12 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Level 1 - Intro
 
 <!--lint disable double-link-->
-* [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using OpenVPN.<!--lint enable double-link-->
-* [Welcome](<https://tryhackme.com/jr/welcome>) - Learn how to use a TryHackMe room to start your upskilling in cyber security.
-* [Intro to Researching](<https://tryhackme.com/room/introtoresearch>) - A brief introduction to research skills for pentesting.
-* [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
-* [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
-* [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
+* [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using OpenVPN. *<!--lint enable double-link-->
+* [Welcome](<https://tryhackme.com/jr/welcome>) - Learn how to use a TryHackMe room to start your upskilling in cyber security. *
+* [Intro to Researching](<https://tryhackme.com/room/introtoresearch>) - A brief introduction to research skills for pentesting. *
+* [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal. *
+* [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal. x (premium)
+* [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal. x (premium)
 * [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
 * [Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.
 * [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
