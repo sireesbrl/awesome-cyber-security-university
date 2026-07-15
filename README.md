@@ -84,7 +84,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ### Level 2 - Tooling
 
-* [Tmux](<https://tryhackme.com/room/rptmux>) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
+* [Tmux](<https://tryhackme.com/room/rptmux>) - Learn to use tmux, one of the most powerful multi-tasking tools on linux. *
 * [Nmap,Curl and Netcat](<https://echoctf.red/challenge/1>) - Get experience with Nmap, Curl and Netcat for network communications.
 * [Web Scanning](<https://tryhackme.com/room/rustscan>) - Learn the basics of automated web scanning.
 * [Subdomain Enumeration](<https://tryhackme.com/room/subdomainenumeration>) - Learn how to find subdomains with different techniques.
